@@ -9,6 +9,8 @@ Retro CLI music player extension for [pi](https://github.com/badlogic/pi-mono). 
 ## Install
 
 ```bash
+pi install npm:pi-amp
+# or
 pi install git:github.com/migsterrrrr/pi-amp
 ```
 
