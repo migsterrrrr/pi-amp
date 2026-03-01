@@ -1,5 +1,9 @@
 # pi-amp 🎵
 
+<p align="center">
+  <img src="pi-amp.png" width="400" alt="pi-amp — AI DJ robot with headphones and a tube amp" />
+</p>
+
 Retro CLI music player extension for [pi](https://github.com/badlogic/pi-mono). YouTube search + streaming, EQ, queue, and an LLM that can DJ for you.
 
 ## Install
