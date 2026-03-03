@@ -11,8 +11,10 @@
   "pi": {
     "extensions": ["./extensions"]
   },
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.41"
+  },
   "peerDependencies": {
-    "@mariozechner/pi-coding-agent": "*",
-    "@sinclair/typebox": "*"
+    "@mariozechner/pi-coding-agent": "*"
   }
 }
